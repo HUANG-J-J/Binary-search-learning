@@ -1,0 +1,5 @@
+﻿  function.cpp
+C:\Users\86151\Desktop\数据结构\查找算法\折半查找\折半查找\function.cpp(7,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  折半查找.vcxproj -> C:\Users\86151\Desktop\数据结构\查找算法\折半查找\x64\Debug\折半查找.exe
